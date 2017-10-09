@@ -25,3 +25,7 @@ MacにはデフォルトでBSD系のコマンドが入っているため、区�
 2. コマンドプロンプトを起動し、以下がエラー無く実行できればOK
 `$ ls`
 
+### Dockerを使う
+- UbuntuなどのDockerを使うのも手っ取り早いです
+- busyboxは入っているコマンドが限られるので注意
+- シェル芸勉強会用にalpineにbashを入れたDockerイメージを公開しています→　emihat/bioshellenv
