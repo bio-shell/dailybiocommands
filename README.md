@@ -29,7 +29,6 @@ https://bio-shell.github.io/dailybiocommands/
 - [絶対パスと相対パスって？](./docs/path.md)
 
 ### マニア向け
-//- [バイオシェル芸1st 2017.10.18 資料]()
 - バイオシェル芸1st 2017.10.18 資料 _Comming Soon_
 
 ## 内容の修正や追記について
