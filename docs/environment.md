@@ -29,3 +29,5 @@ MacにはデフォルトでBSD系のコマンドが入っているため、区�
 - UbuntuなどのDockerを使うのも手っ取り早いです
 - busyboxは入っているコマンドが限られるので注意
 - シェル芸勉強会用にalpineにbashを入れたDockerイメージを公開しています→　emihat/bioshellenv
+
+- [Qiita: Windowsで使えるターミナルとシェルのまとめ](https://qiita.com/Ted-HM/items/9a60f6fcf74bbd79a904)
