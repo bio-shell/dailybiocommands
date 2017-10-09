@@ -33,5 +33,5 @@ https://bio-shell.github.io/dailybiocommands/
 
 ## 内容の修正や追記について
 - 大歓迎です！！
-- https://github.com/bio-shell/dailybiocommands をプルリクエストしてください
+- あなたの[プルリクエスト](https://github.com/bio-shell/dailybiocommands)を夜も寝ないで昼寝してお待ちしております
 
