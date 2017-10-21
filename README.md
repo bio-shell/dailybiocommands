@@ -31,6 +31,7 @@ https://bio-shell.github.io/dailybiocommands/
 ### バイオシェル芸 1st 2017.10.18
 - [CONPASS](https://bio-shell.connpass.com/event/66089/)
 - [@hiro_h さんによるまとめ](https://togetter.com/li/1162296)
+- [上田先生のブログ](https://b.ueda.tech/?post=20171019)
 
 ### 便利なサイト
 - [Essential AWK Commands for Next Generation Sequence Analysis](http://bioinformatics.cvr.ac.uk/blog/essential-awk-commands-for-next-generation-sequence-analysis/)
