@@ -28,8 +28,20 @@ https://bio-shell.github.io/dailybiocommands/
 ### CUI操作の基礎
 - [絶対パスと相対パスって？](./docs/path.md)
 
-### マニア向け
-- バイオシェル芸1st 2017.10.18 資料 _Comming Soon_
+### バイオシェル芸 1st 2017.10.18
+- [CONPASS](https://bio-shell.connpass.com/event/66089/)
+- [@hiro_h さんによるまとめ](https://togetter.com/li/1162296)
+
+### 便利なサイト
+- [Essential AWK Commands for Next Generation Sequence Analysis](http://bioinformatics.cvr.ac.uk/blog/essential-awk-commands-for-next-generation-sequence-analysis/)
+- [Linux標準教科書（Ver2.0.0）](http://www.lpi.or.jp/linuxtext/text.shtml)
+- [どの環境でも使えるシェルスクリプトを書くためのメモ ver4.51](https://qiita.com/richmikan@github/items/bd4b21cf1fe503ab2e5c)
+- [シェルスクリプトを書くときに気をつける9箇条](https://qiita.com/b4b4r07/items/9ea50f9ff94973c99ebe)
+- [初心者向け、「上手い」シェルスクリプトの書き方メモ](https://qiita.com/m-yamashita/items/889c116b92dc0bf4ea7d)
+- [Linuxコマンドでテキストデータを自在に操る](http://orangain.hatenablog.com/entry/20100916/1284631280)
+- [片山さんのbiorubyの資料](http://bioruby.org/archive/doc/Japanese/BR060609-bip.pdf)
+
+情報提供：@marimiya_clc さん, @suimye さん, @antiplastics さん
 
 ## 内容の修正や追記について
 - 大歓迎です！！
